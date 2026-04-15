@@ -29,15 +29,16 @@ To run the experiments with the baseline models with the proposed FIN module on 
 If you find this repository useful for your research, please consider citing our [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299931v1.full.pdf):
 
 ```bibtex
-@article{shi2023equitable,
-  title={Equitable Artificial Intelligence for Glaucoma Screening with Fair Identity Normalization},
-  author={Shi, Min and Luo, Yan and Tian, Yu and Shen, Lucy Q and Elze, Tobias and Zebardast, Nazlee and Eslami, Mohammad and Kazeminasab, Saber and Boland, Michael V and Friedman, David S and others},
-  journal={medRxiv},
-  pages={2023--12},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory Press}
+@article{shi2025equitable,
+  title={Equitable artificial intelligence for glaucoma screening with fair identity normalization},
+  author={Shi, Min and Luo, Yan and Tian, Yu and Shen, Lucy Q and Zebardast, Nazlee and Eslami, Mohammad and Kazeminasab, Saber and Boland, Michael V and Friedman, David S and Pasquale, Louis R and others},
+  journal={NPJ Digital Medicine},
+  volume={8},
+  number={1},
+  pages={46},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
-
 ```
 
 
